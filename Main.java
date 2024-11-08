@@ -18,18 +18,7 @@ public class Main {
            car1.Increment(50);
            car.printMethod();
            car1.printMethod();
-
-
-
-
-
-
-
-
-
-
-
-
+      //could have used constructor
 
    }
 
